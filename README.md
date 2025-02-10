@@ -1,1 +1,1 @@
-# Lab2PracticaSupervisada
+# Gestor Academico
