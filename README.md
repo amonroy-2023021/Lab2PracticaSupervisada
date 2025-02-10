@@ -1,6 +1,6 @@
 # Gestor Academico
 
-Descripción
+## Descripción
 El proyecto se trata sobre una API qe hace la funcion de un gestor academico de alumnos y maestros, esto con algunas librerias y tecnologias las cuales son:
 
 Node.js
@@ -13,7 +13,7 @@ JWT
 
 El sistema esta hecho con dos roles: TEACHER_ROLE y STUDENT_ROLE, donde el registro y las funciones serán diferentes para cada uno.
 
-Funciones del Alumno
+## Funciones del Alumno
 El Alumno podrá realizar las siguientes acciones:
 
 Registrarse como STUDENT_ROLE por defecto y loguearse.
@@ -21,7 +21,7 @@ No podrá asignarse a un curso que ya tenga alumnos asignados.
 Visualizar los cursos a los que está asignado.
 Editar y eliminar su perfil.
 
-Funciones del Maestro
+## Funciones del Maestro
 El Maestro podrá realizar las siguientes acciones:
 
 Registrarse como TEACHER_ROLE y loguearse.
